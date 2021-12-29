@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5614491547502075451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7875731397518787485}
+  - component: {fileID: 814512056}
+  - component: {fileID: 814512057}
+  - component: {fileID: 1533823162}
+  - component: {fileID: 4363508042752534174}
+  m_Layer: 0
+  m_Name: Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7875731397518787485
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614491547502075451}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -236.28426, y: -459.58698, z: -10694.74}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &814512056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614491547502075451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0822923bdba84285a267cbdb7caa66c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rockPrefab: {fileID: 6391622999013631611, guid: 7eb71965456814184a82609483cc5b62,
+    type: 3}
+  tileMap: {fileID: 0}
+  obstacleCheckRadius: 1
+  rockSpawnInterval: 10
+--- !u!114 &814512057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614491547502075451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc3f4e98a8bd47669fa8141efe858de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buildingMenu: {fileID: 0}
+  insufficientFunds: {fileID: 0}
+  workShop: {fileID: 1782578373631043476, guid: c57a60b6a3e6d45079809ec56426d4e4,
+    type: 3}
+  workShopMenuPrefab: {fileID: 8199002203058875204, guid: 721cbff8339ba4b8eacf0622de2b8d3d,
+    type: 3}
+  treeChopper: {fileID: 1782578373631043476, guid: 0a46f97a32d7b4502a01681592db620a,
+    type: 3}
+  treeChopMenuPrefab: {fileID: 8199002203058875204, guid: c215c5d55bde94898b25f9b9319b6b6e,
+    type: 3}
+  ironMine: {fileID: 1782578373631043476, guid: bd2cdba50906940fa93cd00d5ba78780,
+    type: 3}
+  ironMineMenuPrefab: {fileID: 8199002203058875204, guid: ee74a4bd090a94f988abedc7897962d6,
+    type: 3}
+  forge: {fileID: 1782578373631043476, guid: 22039e83c8e5548bfa9cf408bdfe41a9, type: 3}
+  forgeMenuPrefab: {fileID: 8199002203058875204, guid: a0da28cfa6918424bb8ee85b6d80335d,
+    type: 3}
+  autoPicker: {fileID: 1782578373631043476, guid: 0d5279a4f62c64e2498cc0f71cc23d97,
+    type: 3}
+  autoPickerMenuPrefab: {fileID: 8199002203058875204, guid: 54faf0614d8bb4e9c8b9a2466a276faa,
+    type: 3}
+  canvas: {fileID: 0}
+--- !u!114 &1533823162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614491547502075451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf62d30c6314f460a8145427c9f303ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normalTree: {fileID: 0}
+  cherryTree: {fileID: 2061130768926130592, guid: 3eef6827a4ea14cf093167d3e1f72d11,
+    type: 3}
+  inventoryMenu: {fileID: 0}
+--- !u!114 &4363508042752534174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614491547502075451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4417372e90b843efbc7640b69d87261, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}

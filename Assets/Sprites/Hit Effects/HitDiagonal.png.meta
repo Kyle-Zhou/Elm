@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 0f6cff66268394929a456e23623409f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8878752509773951517
+    second: HitDiagonal_0
+  - first:
+      213: 8165637933350932429
+    second: HitDiagonal_1
+  - first:
+      213: 175703870196824580
+    second: HitDiagonal_2
+  - first:
+      213: 4887335113352839134
+    second: HitDiagonal_3
+  - first:
+      213: -722595008166210666
+    second: HitDiagonal_4
+  - first:
+      213: 2709419349016320976
+    second: HitDiagonal_5
+  - first:
+      213: 4904268593123978847
+    second: HitDiagonal_6
+  - first:
+      213: 5464224853753006750
+    second: HitDiagonal_7
+  - first:
+      213: -8201878050268721546
+    second: HitDiagonal_8
+  - first:
+      213: -8704777254321638534
+    second: HitDiagonal_9
+  - first:
+      213: 5980520096263490703
+    second: HitDiagonal_10
+  - first:
+      213: 1710391225399322683
+    second: HitDiagonal_11
+  - first:
+      213: -8388267797770323999
+    second: HitDiagonal_12
+  - first:
+      213: 8309375436251656772
+    second: HitDiagonal_13
+  - first:
+      213: -3608901048583726095
+    second: HitDiagonal_14
+  - first:
+      213: 7481822503792768466
+    second: HitDiagonal_15
+  - first:
+      213: -8547893436779029482
+    second: HitDiagonal_16
+  - first:
+      213: 5421630104531992947
+    second: HitDiagonal_17
+  - first:
+      213: 529359465492794275
+    second: HitDiagonal_18
+  - first:
+      213: -2397098115989595419
+    second: HitDiagonal_19
+  - first:
+      213: -7555521215409170144
+    second: HitDiagonal_20
+  - first:
+      213: -2009741861433499211
+    second: HitDiagonal_21
+  - first:
+      213: -5095065666509257651
+    second: HitDiagonal_22
+  - first:
+      213: 5478870417598480093
+    second: HitDiagonal_23
+  - first:
+      213: -3082340578671902117
+    second: HitDiagonal_24
+  - first:
+      213: -2854762792204792423
+    second: HitDiagonal_25
+  - first:
+      213: 5363948684994063231
+    second: HitDiagonal_26
+  - first:
+      213: 798734897019412830
+    second: HitDiagonal_27
+  - first:
+      213: 4227252895253483166
+    second: HitDiagonal_28
+  - first:
+      213: 7756922343206522
+    second: HitDiagonal_29
+  - first:
+      213: -8443290951818536186
+    second: HitDiagonal_30
+  - first:
+      213: -2771323118745846211
+    second: HitDiagonal_31
+  - first:
+      213: -3739149889852084884
+    second: HitDiagonal_32
+  - first:
+      213: 2940786690063987752
+    second: HitDiagonal_33
+  - first:
+      213: 8216399776892396188
+    second: HitDiagonal_34
+  - first:
+      213: -4113519962504732981
+    second: HitDiagonal_35
+  - first:
+      213: -9166215199891698377
+    second: HitDiagonal_36
+  - first:
+      213: 5012038495030461408
+    second: HitDiagonal_37
+  - first:
+      213: 1837465714099730626
+    second: HitDiagonal_38
+  - first:
+      213: -5835524747618122576
+    second: HitDiagonal_39
+  - first:
+      213: -6329681959176280002
+    second: HitDiagonal_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HitDiagonal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc05e42a558c480800000000000000
+      internalID: -8878752509773951517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf46dddf6c225170800000000000000
+      internalID: 8165637933350932429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a3eb03db9307200800000000000000
+      internalID: 175703870196824580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf70b1346d43d340800000000000000
+      internalID: 4887335113352839134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69358c52ba3d8f5f0800000000000000
+      internalID: -722595008166210666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db10b5fa8ac99520800000000000000
+      internalID: 2709419349016320976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e62403d467f0440800000000000000
+      internalID: 4904268593123978847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0fc4cd83d4db40800000000000000
+      internalID: 5464224853753006750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec8a26e531d2e80800000000000000
+      internalID: -8201878050268721546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitDiagonal_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733243053b623780800000000000000
+      internalID: -8704777254321638534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

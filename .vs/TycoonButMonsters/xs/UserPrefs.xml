@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{28F2E9C4-7D0D-9F34-E07B-F49B6E1FA7E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadingText.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Construction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChestManager.cs" />
+      <File FileName="Assets/Scripts/ChestSlots.cs" />
+      <File FileName="Assets/Scripts/Item.cs" />
+      <File FileName="Assets/StartingChest.cs" />
+      <File FileName="Assets/Scripts/PlayerResources.cs" />
+      <File FileName="Assets/Scripts/TradingFoods.cs" />
+      <File FileName="Assets/Scripts/CarrotStates.cs" />
+      <File FileName="Assets/Scripts/VegetableStates.cs" />
+      <File FileName="Assets/Scripts/Chopping.cs" />
+      <File FileName="Assets/Scripts/ToolFunction.cs" />
+      <File FileName="Assets/Scripts/BasicAttack.cs" />
+      <File FileName="Assets/Scripts/Slash.cs" Line="39" Column="34" />
+      <File FileName="Assets/Scripts/RenewableStates.cs" Line="43" Column="23" />
+      <File FileName="Assets/Scripts/HarvestableStates.cs" />
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="42" Column="1" />
+      <File FileName="Assets/Scripts/SceneSwitcher.cs" Line="15" Column="57" />
+      <File FileName="Assets/Scripts/GameHandler.cs" Line="63" Column="1" />
+      <File FileName="Assets/LoadingText.cs" Line="4" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5dc50873-219d-4396-8d7b-ad4086ea1ec0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 9782b508fb4a444aeb0c8a42560226af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5238935763719137100
+    second: break01_0
+  - first:
+      213: 9009205324721571177
+    second: break01_1
+  - first:
+      213: -1424437941407379790
+    second: break01_2
+  - first:
+      213: 8010040659337514877
+    second: break01_3
+  - first:
+      213: -9188146409831968504
+    second: break01_4
+  - first:
+      213: 1365569132768675413
+    second: break01_5
+  - first:
+      213: 1519080958158503369
+    second: break01_6
+  - first:
+      213: -1636212970840138759
+    second: break01_7
+  - first:
+      213: 2890275420931126376
+    second: break01_8
+  - first:
+      213: -2518136598445715732
+    second: break01_9
+  - first:
+      213: -5923325693955753272
+    second: break01_10
+  - first:
+      213: -847365790252896266
+    second: break01_11
+  - first:
+      213: -139011534616766450
+    second: break01_12
+  - first:
+      213: 1124335621217158626
+    second: break01_13
+  - first:
+      213: -1743666134606413939
+    second: break01_14
+  - first:
+      213: -3583584002058570118
+    second: break01_15
+  - first:
+      213: -1427641542132269233
+    second: break01_16
+  - first:
+      213: 2262057668115810728
+    second: break01_17
+  - first:
+      213: 6267107271200595581
+    second: break01_18
+  - first:
+      213: -8444323579012497924
+    second: break01_19
+  - first:
+      213: 4350813585088513355
+    second: break01_20
+  - first:
+      213: -209065661502402831
+    second: break01_21
+  - first:
+      213: -4932220315347574743
+    second: break01_22
+  - first:
+      213: -7774477733667907855
+    second: break01_23
+  - first:
+      213: 7293570482751819438
+    second: break01_24
+  - first:
+      213: -3901414287369749123
+    second: break01_25
+  - first:
+      213: 2387923227568817644
+    second: break01_26
+  - first:
+      213: -4489307129847980989
+    second: break01_27
+  - first:
+      213: 1957548747711569042
+    second: break01_28
+  - first:
+      213: 2498427801372376311
+    second: break01_29
+  - first:
+      213: 8703921828085466502
+    second: break01_30
+  - first:
+      213: 6469032984561708630
+    second: break01_31
+  - first:
+      213: -5340781135290794420
+    second: break01_32
+  - first:
+      213: -2556955708224553194
+    second: break01_33
+  - first:
+      213: -8264838064364861796
+    second: break01_34
+  - first:
+      213: -4777139175022744261
+    second: break01_35
+  - first:
+      213: 7562909133547391498
+    second: break01_36
+  - first:
+      213: -628387712634487148
+    second: break01_37
+  - first:
+      213: -7451514774079783979
+    second: break01_38
+  - first:
+      213: 2226111442342218260
+    second: break01_39
+  - first:
+      213: 3311247725086153068
+    second: break01_40
+  - first:
+      213: 7848634107627495476
+    second: break01_41
+  - first:
+      213: 5964126997286714919
+    second: break01_42
+  - first:
+      213: 1873963966229985717
+    second: break01_43
+  - first:
+      213: 8025464793166259168
+    second: break01_44
+  - first:
+      213: -7464301600948560163
+    second: break01_45
+  - first:
+      213: 457138641782508599
+    second: break01_46
+  - first:
+      213: -3847246385557882982
+    second: break01_47
+  - first:
+      213: 9063712383887824609
+    second: break01_48
+  - first:
+      213: 6228392620737550285
+    second: break01_49
+  - first:
+      213: -1662391723196514431
+    second: break01_50
+  - first:
+      213: -2878804567135221754
+    second: break01_51
+  - first:
+      213: 3573672974699247749
+    second: break01_52
+  - first:
+      213: -7984208537062258010
+    second: break01_53
+  - first:
+      213: 3346015430437903946
+    second: break01_54
+  - first:
+      213: -8254128038632198467
+    second: break01_55
+  - first:
+      213: 8941374415102998602
+    second: break01_56
+  - first:
+      213: 8701960729112604021
+    second: break01_57
+  - first:
+      213: 3235331050423485536
+    second: break01_58
+  - first:
+      213: 161579973052802973
+    second: break01_59
+  - first:
+      213: 8856503951261905382
+    second: break01_60
+  - first:
+      213: -1569358258335227598
+    second: break01_61
+  - first:
+      213: -7812620846379385523
+    second: break01_62
+  - first:
+      213: -1028568176875022101
+    second: break01_63
+  - first:
+      213: 8201544315297050329
+    second: break01_64
+  - first:
+      213: 2307390677274595002
+    second: break01_65
+  - first:
+      213: 5818175642904097064
+    second: break01_66
+  - first:
+      213: 5433378477016760745
+    second: break01_67
+  - first:
+      213: -7687459405482444870
+    second: break01_68
+  - first:
+      213: -8492076680488055613
+    second: break01_69
+  - first:
+      213: 6139158931220964963
+    second: break01_70
+  - first:
+      213: 1510098244027870402
+    second: break01_71
+  - first:
+      213: 4627403864025272170
+    second: break01_72
+  - first:
+      213: -4339924501686310242
+    second: break01_73
+  - first:
+      213: 4263047077719980963
+    second: break01_74
+  - first:
+      213: -4047735045969233997
+    second: break01_75
+  - first:
+      213: -145207632091027475
+    second: break01_76
+  - first:
+      213: -7550609708462488867
+    second: break01_77
+  - first:
+      213: 2040800795745886480
+    second: break01_78
+  - first:
+      213: 4526508567458190938
+    second: break01_79
+  - first:
+      213: 8269800048135806503
+    second: break01_80
+  - first:
+      213: 1980264100371705849
+    second: break01_81
+  - first:
+      213: -7644597867082740091
+    second: break01_82
+  - first:
+      213: -549956180290983016
+    second: break01_83
+  - first:
+      213: 9198929243838661035
+    second: break01_84
+  - first:
+      213: 4221779226893551947
+    second: break01_85
+  - first:
+      213: 538219021710944442
+    second: break01_86
+  - first:
+      213: -8555135096012056583
+    second: break01_87
+  - first:
+      213: 5160593442938106356
+    second: break01_88
+  - first:
+      213: -1506077684671009089
+    second: break01_89
+  - first:
+      213: -1188628585267355154
+    second: break01_90
+  - first:
+      213: -5301356565187770458
+    second: break01_91
+  - first:
+      213: -1774931169446162582
+    second: break01_92
+  - first:
+      213: 6052133250434365857
+    second: break01_93
+  - first:
+      213: 1480347489151657017
+    second: break01_94
+  - first:
+      213: 1364728410485883843
+    second: break01_95
+  - first:
+      213: -5803390108282699924
+    second: break01_96
+  - first:
+      213: -1829497918951604669
+    second: break01_97
+  - first:
+      213: 6662578305394140408
+    second: break01_0
+  - first:
+      213: 3453189212569826260
+    second: break01_1
+  - first:
+      213: 3417652431244247230
+    second: break01_2
+  - first:
+      213: 1051884281253060967
+    second: break01_3
+  - first:
+      213: 8624457775015785617
+    second: break01_4
+  - first:
+      213: -3344551702793407938
+    second: break01_5
+  - first:
+      213: 5259581032811216526
+    second: break01_6
+  - first:
+      213: 5224197505287607352
+    second: break01_7
+  - first:
+      213: -768409040596180971
+    second: break01_8
+  - first:
+      213: 5107344100024451944
+    second: break01_9
+  - first:
+      213: 213951623295661689
+    second: break01_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: break01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4ed3d3bab367c50800000000000000
+      internalID: 6662578305394140408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37f650b413cef20800000000000000
+      internalID: 3453189212569826260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0401a57c0fd6f20800000000000000
+      internalID: 3417652431244247230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e7e04e2b099e00800000000000000
+      internalID: 1051884281253060967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194fb2ce6aa30b770800000000000000
+      internalID: 8624457775015785617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32321e42f3c591d0800000000000000
+      internalID: -3344551702793407938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e38183519cdf840800000000000000
+      internalID: 5259581032811216526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834562bb3f3108840800000000000000
+      internalID: 5224197505287607352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e01d7c001655f0800000000000000
+      internalID: -768409040596180971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305ab266ee0e640800000000000000
+      internalID: 5107344100024451944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: break01_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f7a92edb18f200800000000000000
+      internalID: 213951623295661689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

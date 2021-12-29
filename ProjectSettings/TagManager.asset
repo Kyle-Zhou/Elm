@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Rock
+  - GrassTile
+  - Building
+  - EdgeTile
+  - WorkShop
+  - WoodChopper
+  - NormalTree
+  - currentlyMoving
+  - BarrierTile
+  - CherryTree
+  - Forge
+  - PowerGenerator
+  - CookingPot
+  - GoldMine
+  - BlueberryBush
+  - AutoPicker
+  - Chest
+  - WoodButton
+  - Tool
+  - Down
+  - Up
+  - Right
+  - Left
+  - Mob
+  - FoodButton
+  - TreeSaplingButton
+  - TreeSapling
+  - Vegetable
+  - VegetableButton
+  - WallShadow
+  - WallTilemap
+  - Anvil
+  - BackpackSlots
+  - BuildMenu
+  - BreadButton
+  - PieButton
+  - Gatekeeper
+  - Sword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - GrassTileLayer
+  - BuildingLayer
+  - Drops
+  - Player
+  - Enemies
+  - Map
+  - Entrances
+  - Barriers
+  - TransitionBoxes
+  - Lighting
+  - WallTileLayer
+  - DecorationTreeLayer
+  - Outline
+  - Branches
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3311736471
+    locked: 0
+  - name: Walls
+    uniqueID: 3593382409
+    locked: 0
+  - name: DamageNumbers
+    uniqueID: 2
+    locked: 0
